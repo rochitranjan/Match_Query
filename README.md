@@ -1,7 +1,7 @@
 # Match_Query
 
 Problem Statement - Given a user entered query in the search box, output the product title which has maximum match with the entered query.
-For eg if the query is '3 clinique', then the output should be :
+For eg if the query is '3 clinique', then the output should be :    
 3 Clinique Repairwear Laser Focus Wrinkle Correcting Eye Cream .17 oz/5 ml
 Each is preferred over NEW! Clinique Repairwear Laser Focus Wrinkle
 Correcting Eye Cream 5ml
